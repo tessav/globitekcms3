@@ -4,7 +4,7 @@
 
 The following **required** functionality is completed:
 
-1\. [ ]  Required: Test for initial vulnerabilities
+1\. [X]  Required: Test for initial vulnerabilities
 
 2\. [ ]  Required: Configure sessions
   * [ ]  Required: Only allow session IDs to come from cookies
